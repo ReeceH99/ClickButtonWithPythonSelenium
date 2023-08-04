@@ -5,4 +5,5 @@ This project simulates a button click of an element by leveraging Python and the
 **Dependencies**: 
 
 selenium==4.11.2
+
 webdriver_manager==4.0.0
